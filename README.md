@@ -1,5 +1,5 @@
-# Check_MK Telegram notification
-<img src="images/logo.png" alt="Telegram notification example" width="300" align="right" hspace="30" vspace="20"/>
+# Check_MK Matrix notification
+
 Telegram has long been one of my real-time communication media. It is obvious to output monitoring messages for server and network components as alarm messages. There are several scripts for this on the internet, but most of them are written in Python, many of them have problems with Python3 and its libraries. Instead of spending hours and hours with Python, I decided to use a scripting language I know and write a Linux Bash script for it. 
 
 
