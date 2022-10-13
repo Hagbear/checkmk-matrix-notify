@@ -99,7 +99,7 @@ omd start
 ### PRIVACY ANONYMIZATION / MASQUERADING
 The current version of this script allows you to optionally enable IP anonymization. This gives you the option to comply with your own privacy policy or the recommendations of data protection authorities in certain countries if they prohibit the transmission of the full IP address. This masks IPv4 and IPv6 IP addresses before they are transmitted in a message to the Matrix service.
 
-The activation of the privacy settings is realized directly in the Notification Rules in Check_MK by NOTIFY_PARAMETER_3, here the value "privacy" has to be entered:
+The activation of the privacy settings is realized directly in the Notification Rules in Check_MK by NOTIFY_PARAMETER_4, here the value "privacy" has to be entered:
 
 <img src="images/notification_rule_modify_privacy.png" alt="Enable privacy settings" width="100%"/>
 
