@@ -125,7 +125,7 @@ For more details and troubleshooting with parameters please check:
 * [[Feature-Request] Multiple Alert Profiles](https://github.com/Hagbear/checkmk-matrix-notify/issues/3)
 
 ## CONTRIBUTIONS
-* First filipnet(https://github.com/filipnet) for the orginal code. 
+* First [filipnet](https://github.com/filipnet) for the orginal code. 
 * Thank you for the excellent code optimization contributions and additional information [ThomasKaiser](https://github.com/ThomasKaiser).
 * Best regards to [Jonathan Barratt](https://github.com/reduxionist) in Bangkok and many thanks for adding emojies to the module.
 
