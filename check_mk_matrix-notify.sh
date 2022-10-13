@@ -112,7 +112,7 @@ BODY='{"msgtype":"m.text", "body":"'"${MESSAGE}"'","format":"org.matrix.custom.h
 curl -S -X POST -d "${BODY}" "${URL}"
 
 if [ $? -ne 0 ]; then
-        echo "Not able to send Matric message" >&2
+        echo "Not able to send Matrix message" >&2
         exit 2
 else
         exit 0
