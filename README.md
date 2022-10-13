@@ -28,7 +28,7 @@ Forked the great check-telegram-notify from filipnet and change it to use the Ma
 ## EXAMPLE
 Notifications are usually sent via a Matrix group. Here is an example of how a Matrix notification is structured.
 
-<img src="images/telegram_notification_example.png" alt="Telegram notification example" width="100%"/>
+<img src="images/matrix_notification_example.png" alt="Telegram notification example" width="100%"/>
 
 ## REQUIREMENTS
 In order for Check_MK to send alerts (notifications) to the Matrix Messenger, we need
@@ -76,7 +76,7 @@ First create a clone of your existing mail notification rule
 * The second parameter is the Matrix UserToken
 * The third parameter is the Matrix RoomID 
 
-<img src="images/create_new_notification_rule_for_telegram_v2.png" alt="Adjust settings" width="100%"/>
+<img src="images/create_new_notification_rule_for_matrix.png" alt="Adjust settings" width="100%"/>
 
 
 If everything was ok, you will see your new Notification Rule afterwards
