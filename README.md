@@ -49,7 +49,7 @@ Change to the notification directory
 cd ~/local/share/check_mk/notifications/
 ```
 
-Download the Telegram notify script from Git repository
+Download the matrix notify script from Git repository
 ```
 wget https://raw.githubusercontent.com/Hagbear/checkmk-matrix-notify/main/check_mk_matrix-notify.sh
 ```
